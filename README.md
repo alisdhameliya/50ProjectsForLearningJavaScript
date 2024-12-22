@@ -1,13 +1,10 @@
-# 50 Projects in 50 Days - HTML/CSS and JavaScript
+# 50 Projects for Learning - HTML/CSS and JavaScript
 
-This is the main repository for all of the projects in the course.
-
--   [Course Link](https://www.udemy.com/course/50-projects-50-days)
--   [Course Info Website](https://50projects50days.com)
+This is the main repository for all of the projects.
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [Fashion-page1](https://alisdhameliya.github.io/fashion-page2/)                             | [Live Demo](https://alisdhameliya.github.io/fashion-page2/)               |
+| 01  | [Fashion-page1]([https://alisdhameliya.github.io/fashion-page2/](https://github.com/alisdhameliya/50ProjectsForLearningJavaScript/tree/main/1%20Scrolling%20card))                             | [Live Demo](https://alisdhameliya.github.io/fashion-page2/)               |
 | 02  | [Progress Steps](https://github.com/bradtraversy/50projects50days/tree/master/progress-steps)                               | [Live Demo](https://50projects50days.com/projects/progress-steps/)                |
 | 03  | [Rotating Navigation Animation](https://github.com/bradtraversy/50projects50days/tree/master/rotating-nav-animation)                       | [Live Demo](https://50projects50days.com/projects/rotating-navigation-animation/) |
 | 04  | [Hidden Search Widget](https://github.com/bradtraversy/50projects50days/tree/master/hidden-search)                          | [Live Demo](https://50projects50days.com/projects/hidden-search-widget/)          |
